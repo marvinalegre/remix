@@ -1,3 +1,3 @@
 export default function Index() {
-  return <h1>index route</h1>;
+  return <h1>foo route</h1>;
 }
